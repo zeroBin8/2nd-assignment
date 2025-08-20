@@ -123,11 +123,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="archer.cpp" />
     <ClCompile Include="basic.cpp" />
+    <ClCompile Include="magician.cpp" />
     <ClCompile Include="magician.h" />
+    <ClCompile Include="monster.cpp" />
+    <ClCompile Include="player.cpp" />
+    <ClCompile Include="thief.cpp" />
+    <ClCompile Include="warrior.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="archer.h" />
+    <ClInclude Include="monster.h" />
     <ClInclude Include="player.h" />
     <ClInclude Include="thief.h" />
     <ClInclude Include="warrior.h" />
