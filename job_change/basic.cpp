@@ -59,22 +59,27 @@ int main() {
             continue;
         }
     }
-    
-    
+    //수정해야 할 부분 - 플레이어 혹은 몬스터의 HP가 0이면 공격 불가 문구 출력하기
+    //몬스터 승리시 가한 데미지 출력 안됨, 몬스터 승리시 문구 정리하기
 
-    player->attack();
-    player->printPlayerStatus();
+    //플레이어가 사망시 공격 불가 테스트
+    //player->setHP(0); 
 
-    cout <<"플레이어 HP: "<< player->getHP() << endl;
-    cout <<"슬라임 HP: "<< slime->getHP() << endl;
+    //몬스터 사망시 공격 불가 테스트
+    //slime->setHP(0);
+
+    //다단히트 중간에 몬스터 사망시 바로 승리 문구 출력 테스트
+    /*player->setPower(50);*/
+
+    //몬스터 승리 상황 테스트
+    /*player->setHP(10);
+    slime->setPower(40);*/
 
     player->attack(slime);
     slime->attack(player);
 
-    //수정해야 할 부분 - 플레이어 혹은 몬스터의 HP가 0이면 공격 불가 문구 출력하기
-    //몬스터 승리시 가한 데미지 출력 안됨, 몬스터 승리시 문구 정리하기
-
     delete player;
     delete slime;
+
     return 0;
 }

@@ -7,28 +7,40 @@
       "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\basic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\archer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\archer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\archer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\archer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\magician.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\magician.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\archer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\archer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\thief.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\thief.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\magician.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\magician.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\warrior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\warrior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\archer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E8AE037-212F-441C-9825-ED50324DF2A6}|job_change\\job_change.vcxproj|solutionrelative:job_change\\archer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,34 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "player.h",
-              "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\player.h",
-              "RelativeDocumentMoniker": "job_change\\player.h",
-              "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\player.h",
-              "RelativeToolTip": "job_change\\player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-20T08:52:20.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "warrior.cpp",
-              "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\warrior.cpp",
-              "RelativeDocumentMoniker": "job_change\\warrior.cpp",
-              "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\warrior.cpp",
-              "RelativeToolTip": "job_change\\warrior.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-20T08:51:09.056Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -74,61 +60,127 @@
               "RelativeDocumentMoniker": "job_change\\basic.cpp",
               "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\basic.cpp",
               "RelativeToolTip": "job_change\\basic.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-20T08:17:19.016Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\player.h",
+              "RelativeDocumentMoniker": "job_change\\player.h",
+              "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\player.h",
+              "RelativeToolTip": "job_change\\player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-21T05:45:26.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "magician.h",
+              "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\magician.h",
+              "RelativeDocumentMoniker": "job_change\\magician.h",
+              "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\magician.h",
+              "RelativeToolTip": "job_change\\magician.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-21T05:45:25.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "archer.h",
+              "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\archer.h",
+              "RelativeDocumentMoniker": "job_change\\archer.h",
+              "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\archer.h",
+              "RelativeToolTip": "job_change\\archer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-21T05:45:22.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "player.cpp",
+              "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\player.cpp",
+              "RelativeDocumentMoniker": "job_change\\player.cpp",
+              "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\player.cpp",
+              "RelativeToolTip": "job_change\\player.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-21T05:15:17.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "thief.cpp",
+              "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\thief.cpp",
+              "RelativeDocumentMoniker": "job_change\\thief.cpp",
+              "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\thief.cpp",
+              "RelativeToolTip": "job_change\\thief.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvzMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-21T05:09:48.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "magician.cpp",
+              "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\magician.cpp",
+              "RelativeDocumentMoniker": "job_change\\magician.cpp",
+              "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\magician.cpp",
+              "RelativeToolTip": "job_change\\magician.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-21T05:09:47.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "warrior.cpp",
+              "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\warrior.cpp",
+              "RelativeDocumentMoniker": "job_change\\warrior.cpp",
+              "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\warrior.cpp",
+              "RelativeToolTip": "job_change\\warrior.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-20T08:51:09.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "archer.cpp",
               "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\archer.cpp",
               "RelativeDocumentMoniker": "job_change\\archer.cpp",
               "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\archer.cpp",
               "RelativeToolTip": "job_change\\archer.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-20T08:15:31.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "archer.h",
-              "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\archer.h",
-              "RelativeDocumentMoniker": "job_change\\archer.h",
-              "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\archer.h",
-              "RelativeToolTip": "job_change\\archer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-20T08:00:54.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "monster.cpp",
               "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\monster.cpp",
               "RelativeDocumentMoniker": "job_change\\monster.cpp",
               "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\monster.cpp",
               "RelativeToolTip": "job_change\\monster.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-20T07:23:22.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "monster.h",
-              "DocumentMoniker": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\monster.h",
-              "RelativeDocumentMoniker": "job_change\\monster.h",
-              "ToolTip": "C:\\Users\\seodo\\Desktop\\code\\git\\2nd-assignment\\2nd-assignment\\job_change\\monster.h",
-              "RelativeToolTip": "job_change\\monster.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-20T07:07:32.897Z",
               "EditorCaption": ""
             }
           ]

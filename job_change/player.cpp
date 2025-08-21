@@ -45,6 +45,7 @@ bool Player::setHP(int HP)
     }
     else
     {
+        this->HP = 0;
         return false;
     }
 
