@@ -23,24 +23,31 @@ void thief::attack()
 void thief::attack(monster* monster)
 {
     int dmg = (getPower() - monster->getDefence())/5;
-
-    if (dmg <= 0)
+    if (getHP() > 0)
     {
-        dmg = 1;
+        if (dmg <= 0)
+        {
+            dmg = 1;
+        }
+
+        for (int i = 0; i < 5; i++)
+        {
+            if (monster->setHP(monster->getHP() - dmg))
+            {
+                cout << "몬스터에게 " << dmg << "의 피해를 입혔다." << endl;
+            }
+            else
+            {
+                cout << "몬스터에게 " << dmg << "의 피해를 입혔다." << endl;
+                cout << "플레이어가 승리했습니다!" << endl;
+                break;
+            }
+        }
+    }
+    else
+    {
+        std::cout << "플레이어가 사망하여 공격할 수 없습니다.\n" << std::endl;
     }
 
-    for (int i = 0; i < 5; i++)
-    {
-        if (monster->setHP(monster->getHP() - dmg))
-        {
-            cout << "몬스터에게 " << dmg << "의 피해를 입혔다." << endl;
-        }
-        else
-        {
-            cout << "몬스터의 남은 체력: " << monster->getHP() << "\n";
-            cout << "플레이어가 승리했습니다!" << endl;
-        }
-    }
-
-    cout << "몬스터의 남은 체력: " << monster->getHP() << endl;
+    cout << "몬스터의 남은 체력: " << monster->getHP() <<"\n" << endl;
 }

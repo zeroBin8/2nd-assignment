@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 
-monster::monster(string _name) : name(_name), HP(50), power(10), defence(4), speed(10) {}
+monster::monster(string _name) : name(_name), HP(20), power(10), defence(4), speed(10) {}
 
 string monster::getName() const { return name; }
 int monster::getHP() const { return HP; }
@@ -35,20 +35,28 @@ void monster::attack(Player* player)
 {
 	int dmg = getPower() - player->getDefence();
 
-	if (dmg <= 0)
+	if (getHP() > 0)
 	{
-		dmg = 1;
-	}
+		if (dmg <= 0)
+		{
+			dmg = 1;
+		}
 
-	if (player->setHP(player->getHP() - dmg))
-	{
-		std::cout << "몬스터가 " << dmg << "의 피해로 공격했습니다." << "\n";
-		std::cout << "플레이어의 남은 체력: " << player->getHP() << std::endl;
+		if (player->setHP(player->getHP() - dmg))
+		{
+			std::cout << "몬스터가 " << dmg << "의 피해로 공격했습니다." << "\n";
+			std::cout << "플레이어의 남은 체력: " << player->getHP() << std::endl;
+		}
+		else
+		{
+			std::cout << "몬스터가 " << dmg << "의 피해로 공격했습니다." << endl;
+			std::cout << "플레이어의 남은 체력: " << player->getHP() << "\n";
+			std::cout << "몬스터가 승리했습니다.\n" << endl;
+		
+		}
 	}
 	else
 	{
-		std::cout << "플레이어의 남은 체력: " << player->getHP() << "\n";
-		std::cout << "몬스터가 승리했습니다." << endl;
-		
+		std::cout << "몬스터가 사망하여 공격할 수 없습니다." << std::endl;
 	}
 }
